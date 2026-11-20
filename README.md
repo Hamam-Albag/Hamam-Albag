@@ -6,7 +6,7 @@ I'm a first year Bachelor of Cybersecurity student at UTS in Sydney. I'm working
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [Cloud Honeypot Campaign: Azure vs AWS](https://github.com/Hamam-Albag/cloud-honeypot-campaign) | Identical T-Pot honeypots on Azure and AWS for a month, comparing what attacks each cloud gets. Both got hit within seconds of going live. | Running (Oct to Nov 2026) |
+| [Cloud Honeypot Campaign: Azure vs AWS](https://github.com/Hamam-Albag/cloud-honeypot-campaign) | Identical T-Pot honeypots on Azure and AWS for a month. About 6.5 million attacks logged, weekly SOC style reports, 16 investigations and an SNMP reflection DDoS I caught and blocked. Azure got 2.7 times more attacks than AWS every week. | Finished (Oct to Nov 2026) |
 
 ## What's next
 
@@ -18,8 +18,6 @@ I'm a first year Bachelor of Cybersecurity student at UTS in Sydney. I'm working
 ## What I'm learning right now
 
 - TryHackMe Cyber Security 101
-- Azure and AWS, through running the honeypot campaign
-- Reading IDS alerts and logs in Kibana
 
 ## Certifications
 
@@ -28,7 +26,7 @@ I'm a first year Bachelor of Cybersecurity student at UTS in Sydney. I'm working
 
 ## Tools I've used
 
-Microsoft Azure, AWS EC2, Debian Linux, T-Pot, Suricata, Elasticsearch, Kibana, CyberChef, Git
+Microsoft Azure, Azure Monitor, AWS EC2, CloudWatch, Debian Linux, T-Pot, Suricata, Elasticsearch, Kibana, GreyNoise, AbuseIPDB, MITRE ATT&CK, CyberChef, Git
 
 ## Rules I follow
 
